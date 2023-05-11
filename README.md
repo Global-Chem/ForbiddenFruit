@@ -2,6 +2,11 @@
 
 Welcome to the Virtually Generated Artifically Chemical Data by Mother Nature. Please browse each chemical universe and their respective versions. File Formats of different representations and versions are in the tables below. Feel free to download for free at your own usage.
 
+#### Statistics:
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=global-chem.chemical-ecosystem)
+
+
 # Virtual Universes
 
 | Universe              | CSV                                                                                                           |
