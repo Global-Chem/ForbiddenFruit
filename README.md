@@ -7,13 +7,13 @@ Welcome to the Virtually Generated Artifically Chemical Data by Mother Nature. P
 | Universe              | CSV  |
 | --------------------- | ---- |
 | Global v1.0.0         |      |
-| War v1.0.0            |      |
+| War v1.0.0            | https://github.com/Global-Chem/Chemical-Ecosystem/blob/main/chemical_universes/war/war_v100.csv     |
 | Sex v1.0.0            |      |
-| Cannabis v1.0.0       |      |
+| Cannabis v1.0.0       | https://github.com/Global-Chem/Chemical-Ecosystem/blob/main/chemical_universes/cannabis/cannabis_v100.csv     |
 | Narcotics v1.0.0      |      |
 | Education v1.0.0      |      |
 | Food v1.0.0.          |      |
 | Environment v1.0.0    |      |
 | Space v1.0.0          |      |
 | Materials v1.0.0      |      |
-| Sex v1.0.0            |      |
+| Sex v1.0.0            | https://github.com/Global-Chem/Chemical-Ecosystem/blob/main/chemical_universes/sex/sex_v100.csv     |
