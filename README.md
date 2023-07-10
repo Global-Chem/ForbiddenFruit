@@ -13,7 +13,6 @@ Welcome to the Virtually Generated Artifically Chemical Data by our discord bot 
 | --------------------- | ------------------------------------------------------------------------------------------------------------- | 
 | Global v1.0.0         |                                                                                                               |
 | War v1.0.0            | https://github.com/Global-Chem/Chemical-Ecosystem/blob/main/chemical_universes/war/war_v100.csv               |
-| Sex v1.0.0            |                                                                                                               |
 | Cannabis v1.0.0       | https://github.com/Global-Chem/Chemical-Ecosystem/blob/main/chemical_universes/cannabis/cannabis_v100.csv     |
 | Narcotics v1.0.0      |                                                                                                               |
 | Education v1.0.0      |                                                                                                               |
